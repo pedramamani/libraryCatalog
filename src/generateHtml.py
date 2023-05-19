@@ -5,12 +5,12 @@ from config import *
 filterGenre = 'fiction'
 
 def main():
-    with open(booksFilePath, 'r') as file:
+    with open(booksFile, 'r') as file:
         data = json.load(file)
-    books = {k: b for k, b in data.items() if b.get('genre') == filterGenre}
+    books = sorted(filter(lambda b: b['genre'] == filterGenre, data.values()), key=lambda b: b['lastName'])
 
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(htmlPath))
-    template = env.get_template(templateFileName)
+    template = env.get_template('template.html')
     html = template.render(books=books)
     
     with open(htmlPath / f'{filterGenre}.html', 'w+') as file:

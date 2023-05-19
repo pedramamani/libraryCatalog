@@ -1,0 +1,338 @@
+{
+    "41": {
+        "id": "41",
+        "title": "Midnight in the Garden of Good and Evil",
+        "firstName": "John",
+        "lastName": "Berendt",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/41.png",
+        "genre": "fiction"
+    },
+    "44": {
+        "id": "44",
+        "title": "The Blue Afternoon",
+        "firstName": "William",
+        "lastName": "Boyd",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/44.png",
+        "genre": "fiction"
+    },
+    "46": {
+        "id": "46",
+        "title": "Drop City",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/46.png",
+        "genre": "fiction"
+    },
+    "43": {
+        "id": "43",
+        "title": "A Friend of the Earth",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/43.png",
+        "genre": "fiction"
+    },
+    "49": {
+        "id": "49",
+        "title": "The Inner Circle",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/49.png",
+        "genre": "fiction"
+    },
+    "48": {
+        "id": "48",
+        "title": "The Road to Wellville",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/48.png",
+        "genre": "fiction"
+    },
+    "42": {
+        "id": "42",
+        "title": "The Tortilla Curtain",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/42.png",
+        "genre": "fiction"
+    },
+    "47": {
+        "id": "47",
+        "title": "The Women",
+        "firstName": "Tom Coraghessan",
+        "lastName": "Boyle",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/47.png",
+        "genre": "fiction"
+    },
+    "40": {
+        "id": "40",
+        "title": "Her Own Rules",
+        "firstName": "Barbara Taylor",
+        "lastName": "Bradford",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/40.png",
+        "genre": "fiction"
+    },
+    "45": {
+        "id": "45",
+        "title": "Deception Point",
+        "firstName": "Dan",
+        "lastName": "Brown",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/45.png",
+        "genre": "fiction"
+    },
+    "12": {
+        "id": "12",
+        "title": "The Eagles Gather",
+        "firstName": "Taylor",
+        "lastName": "Caldwell",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/12.png",
+        "genre": "fiction"
+    },
+    "37": {
+        "id": "37",
+        "title": "The Last Amigo",
+        "firstName": "Stevie",
+        "lastName": "Cameron",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/37.png",
+        "genre": "fiction"
+    },
+    "24": {
+        "id": "24",
+        "title": "The Plague",
+        "firstName": "Albert",
+        "lastName": "Camus",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/24.png",
+        "genre": "fiction"
+    },
+    "33": {
+        "id": "33",
+        "title": "The Plague",
+        "firstName": "Albert",
+        "lastName": "Camus",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/33.png",
+        "genre": "fiction"
+    },
+    "2": {
+        "id": "2",
+        "title": "America America",
+        "firstName": "Ethan",
+        "lastName": "Canin",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/2.png",
+        "genre": "fiction"
+    },
+    "18": {
+        "id": "18",
+        "title": "Jack Maggs",
+        "firstName": "Peter",
+        "lastName": "Carey",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/18.png",
+        "genre": "fiction"
+    },
+    "30": {
+        "id": "30",
+        "title": "The Alienist",
+        "firstName": "Caleb",
+        "lastName": "Carr",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/30.png",
+        "genre": "fiction"
+    },
+    "8": {
+        "id": "8",
+        "title": "North SAR",
+        "firstName": "Gerry",
+        "lastName": "Carroll",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/8.png",
+        "genre": "fiction"
+    },
+    "34": {
+        "id": "34",
+        "title": "Spartina",
+        "firstName": "John",
+        "lastName": "Casey",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/34.png",
+        "genre": "fiction"
+    },
+    "22": {
+        "id": "22",
+        "title": "The Yiddish Policemen's Union",
+        "firstName": "Michael",
+        "lastName": "Chabon",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/22.png",
+        "genre": "fiction"
+    },
+    "11": {
+        "id": "11",
+        "title": "The Bear and the Dragon",
+        "firstName": "Tom",
+        "lastName": "Clancy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/11.png",
+        "genre": "fiction"
+    },
+    "17": {
+        "id": "17",
+        "title": "Executive orders",
+        "firstName": "Tom",
+        "lastName": "Clancy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/17.png",
+        "genre": "fiction"
+    },
+    "3": {
+        "id": "3",
+        "title": "Line of Control",
+        "firstName": "Tom",
+        "lastName": "Clancy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/3.png",
+        "genre": "fiction"
+    },
+    "4": {
+        "id": "4",
+        "title": "Mission of Honor",
+        "firstName": "Tom",
+        "lastName": "Clancy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/4.png",
+        "genre": "fiction"
+    },
+    "1": {
+        "id": "1",
+        "title": "Threat Vector",
+        "firstName": "Tom",
+        "lastName": "Clancy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/1.png",
+        "genre": "fiction"
+    },
+    "28": {
+        "id": "28",
+        "title": "River, Cross My Heart",
+        "firstName": "Breena",
+        "lastName": "Clarke",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/28.png",
+        "genre": "fiction"
+    },
+    "9": {
+        "id": "9",
+        "title": "Gai-Jin",
+        "firstName": "James",
+        "lastName": "Clavell",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/9.png",
+        "genre": "fiction"
+    },
+    "13": {
+        "id": "13",
+        "title": "Shogun",
+        "firstName": "James",
+        "lastName": "Clavell",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/13.png",
+        "genre": "fiction"
+    },
+    "19": {
+        "id": "19",
+        "title": "Promise Me",
+        "firstName": "Harlan",
+        "lastName": "Coben",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/19.png",
+        "genre": "fiction"
+    },
+    "32": {
+        "id": "32",
+        "title": "Beach Music",
+        "firstName": "Pat",
+        "lastName": "Conroy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/32.png",
+        "genre": "fiction"
+    },
+    "7": {
+        "id": "7",
+        "title": "The Great Santini",
+        "firstName": "Pat",
+        "lastName": "Conroy",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/7.png",
+        "genre": "fiction"
+    },
+    "23": {
+        "id": "23",
+        "title": "Harmful Intent",
+        "firstName": "Robin",
+        "lastName": "Cook",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/23.png",
+        "genre": "fiction"
+    },
+    "20": {
+        "id": "20",
+        "title": "Predator",
+        "firstName": "Patricia",
+        "lastName": "Cornwell",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/20.png",
+        "genre": "fiction"
+    },
+    "26": {
+        "id": "26",
+        "title": "Matthew Flinder's Cat",
+        "firstName": "Bryce",
+        "lastName": "Courtenay",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/26.png",
+        "genre": "fiction"
+    },
+    "31": {
+        "id": "31",
+        "title": "The Persimmon Tree",
+        "firstName": "Bryce",
+        "lastName": "Courtenay",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/31.png",
+        "genre": "fiction"
+    },
+    "21": {
+        "id": "21",
+        "title": "Midnight",
+        "firstName": "Josephine",
+        "lastName": "Cox",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/21.png",
+        "genre": "fiction"
+    },
+    "38": {
+        "id": "38",
+        "title": "The Meaning of Night",
+        "firstName": "Michael",
+        "lastName": "Cox",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/38.png",
+        "genre": "fiction"
+    },
+    "36": {
+        "id": "36",
+        "title": "Black Widow",
+        "firstName": "Christina",
+        "lastName": "Crawford",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/36.png",
+        "genre": "fiction"
+    },
+    "27": {
+        "id": "27",
+        "title": "Eaters of the Dead",
+        "firstName": "Michael",
+        "lastName": "Crichton",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/27.png",
+        "genre": "fiction"
+    },
+    "15": {
+        "id": "15",
+        "title": "The Great Train Robbery",
+        "firstName": "Michael",
+        "lastName": "Crichton",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/15.png",
+        "genre": "fiction"
+    },
+    "14": {
+        "id": "14",
+        "title": "Inca Gold",
+        "firstName": "Clive",
+        "lastName": "Cussler",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/14.png",
+        "genre": "fiction"
+    },
+    "35": {
+        "id": "35",
+        "title": "The Constant Gardener",
+        "firstName": "John",
+        "lastName": "Le Carre",
+        "coverUrl": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/assets/images/35.png",
+        "genre": "fiction"
+    }
+}

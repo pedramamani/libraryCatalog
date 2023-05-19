@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -48,11 +47,11 @@
 </head>
 <body>
     <div class="book-container">
-        {% for book_id, book in books.items() %}
+        {% for book in books %}
             <div class="book">
                 <img src="{{ book['coverUrl'] }}" alt="Book cover">
                 <h3>{{ book['title'] }}</h3>
-                <p>{{ book['authorList'][0]['firstName'] }} {{ book['authorList'][0]['lastName'] }}</p>
+                <p>{{ book['firstName'] }} {{ book['lastName'] }}</p>
             </div>
         {% endfor %}
     </div>
