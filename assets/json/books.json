@@ -1,0 +1,526 @@
+{
+    "41": {
+        "id": "41",
+        "authorList": [
+            {
+                "firstName": "John",
+                "lastName": "Berendt"
+            }
+        ],
+        "title": "Midnight in the Garden of Good and Evil",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1wRwvztNSB1o5yTUje0Jvf3HEzzfhKRPB",
+        "genre": "fiction"
+    },
+    "44": {
+        "id": "44",
+        "authorList": [
+            {
+                "firstName": "William",
+                "lastName": "Boyd"
+            }
+        ],
+        "title": "The Blue Afternoon",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1vImzRaLNdj88OFYxT9E6zznei6-5uAAw",
+        "genre": "fiction"
+    },
+    "46": {
+        "id": "46",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "Drop City",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1ipL8JOCo1-tSdo2RfBVJ8r-ITSL9Oa9P",
+        "genre": "fiction"
+    },
+    "43": {
+        "id": "43",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "A Friend of the Earth",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1VTPvc8s_0W-ijoBoD2q7kY493LbcpQ-m",
+        "genre": "fiction"
+    },
+    "49": {
+        "id": "49",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "The Inner Circle",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1PemvikqtM4y7-XbxEym4goUN2rxlZdCZ",
+        "genre": "fiction"
+    },
+    "48": {
+        "id": "48",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "The Road to Wellville",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1_7CLbpsdJYXcUjz-0yhNCa32X3_i7wjG",
+        "genre": "fiction"
+    },
+    "42": {
+        "id": "42",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "The Tortilla Curtain",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1g6awyfg37C901lQ9mWrMXnWgR6DwTVEo",
+        "genre": "fiction"
+    },
+    "47": {
+        "id": "47",
+        "authorList": [
+            {
+                "firstName": "Tom Coraghessan",
+                "lastName": "Boyle"
+            }
+        ],
+        "title": "The Women",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1COqtwduquU61oEK0FdjirFlSdrzJxKEl",
+        "genre": "fiction"
+    },
+    "40": {
+        "id": "40",
+        "authorList": [
+            {
+                "firstName": "Barbara Taylor",
+                "lastName": "Bradford"
+            }
+        ],
+        "title": "Her Own Rules",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1tbZhxfhtTSJTcScuJ_Uk-43ZMh0tFSGM",
+        "genre": "fiction"
+    },
+    "45": {
+        "id": "45",
+        "authorList": [
+            {
+                "firstName": "Dan",
+                "lastName": "Brown"
+            }
+        ],
+        "title": "Deception Point",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1Zaeb2sFvNUpsONAa_q_05SBN9liQrpeg",
+        "genre": "fiction"
+    },
+    "12": {
+        "id": "12",
+        "authorList": [
+            {
+                "firstName": "Taylor",
+                "lastName": "Caldwell"
+            }
+        ],
+        "title": "The Eagles Gather",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1S3kFLsuhinJOMrC8gL9yaYYI9QFWHFne",
+        "genre": "fiction"
+    },
+    "37": {
+        "id": "37",
+        "authorList": [
+            {
+                "firstName": "Stevie",
+                "lastName": "Cameron"
+            },
+            {
+                "firstName": "Harvey",
+                "lastName": "Cashore"
+            }
+        ],
+        "title": "The Last Amigo",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1BkpyYP8G0eM5wOQUdYsj1umbeJtrNY2D",
+        "genre": "fiction"
+    },
+    "24": {
+        "id": "24",
+        "authorList": [
+            {
+                "firstName": "Albert",
+                "lastName": "Camus"
+            }
+        ],
+        "title": "The Plague",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1ktJJrRc4Is0fv6FPY3LbAYwtpCqnZHge",
+        "genre": "fiction"
+    },
+    "33": {
+        "id": "33",
+        "authorList": [
+            {
+                "firstName": "Albert",
+                "lastName": "Camus"
+            }
+        ],
+        "title": "The Plague",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1qDh3giBBDMfACEI9MMo-JPXqmQybt9yO",
+        "genre": "fiction"
+    },
+    "2": {
+        "id": "2",
+        "authorList": [
+            {
+                "firstName": "Ethan",
+                "lastName": "Canin"
+            }
+        ],
+        "title": "America America",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1vmQs_RJzjdEugtxp4ulyJYZYbOb008b_",
+        "genre": "fiction"
+    },
+    "18": {
+        "id": "18",
+        "authorList": [
+            {
+                "firstName": "Peter",
+                "lastName": "Carey"
+            }
+        ],
+        "title": "Jack Maggs",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1fO_f8rmANj6uIlBEmMykTBnhSh6-YUje",
+        "genre": "fiction"
+    },
+    "30": {
+        "id": "30",
+        "authorList": [
+            {
+                "firstName": "Caleb",
+                "lastName": "Carr"
+            }
+        ],
+        "title": "The Alienist",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1nbhhLteSNLJXpX3zJQOPHP7HhkcFHs1s",
+        "genre": "fiction"
+    },
+    "8": {
+        "id": "8",
+        "authorList": [
+            {
+                "firstName": "Gerry",
+                "lastName": "Carroll"
+            }
+        ],
+        "title": "North SAR",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1zYBJ7YN3K8dGY_rsGwiFq14ebL7xccG9",
+        "genre": "fiction"
+    },
+    "34": {
+        "id": "34",
+        "authorList": [
+            {
+                "firstName": "John",
+                "lastName": "Casey"
+            }
+        ],
+        "title": "Spartina",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1xf3EAHM8FoUEizRleYOrYldf73CNVEdn",
+        "genre": "fiction"
+    },
+    "22": {
+        "id": "22",
+        "authorList": [
+            {
+                "firstName": "Michael",
+                "lastName": "Chabon"
+            }
+        ],
+        "title": "The Yiddish Policemen's Union",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1gL_dtid7iqkRvHPREOA4bysGi94wxJsp",
+        "genre": "fiction"
+    },
+    "11": {
+        "id": "11",
+        "authorList": [
+            {
+                "firstName": "Tom",
+                "lastName": "Clancy"
+            }
+        ],
+        "title": "The Bear and the Dragon",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1xxvbA6GBNQFF2A0dPugY9LE_W5RJN8oA",
+        "genre": "fiction"
+    },
+    "17": {
+        "id": "17",
+        "authorList": [
+            {
+                "firstName": "Tom",
+                "lastName": "Clancy"
+            }
+        ],
+        "title": "Executive orders",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=15g1HJ-S93qywW54Dmg_gi41tpgUNxHF6",
+        "genre": "fiction"
+    },
+    "3": {
+        "id": "3",
+        "authorList": [
+            {
+                "firstName": "Tom",
+                "lastName": "Clancy"
+            },
+            {
+                "firstName": "Steve",
+                "lastName": "Pieczenik"
+            },
+            {
+                "firstName": "Jeff",
+                "lastName": "Rovin"
+            }
+        ],
+        "title": "Line of Control",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1wignx5M_MoRpivEpKsSY7n6YT4dFrQgt",
+        "genre": "fiction"
+    },
+    "4": {
+        "id": "4",
+        "authorList": [
+            {
+                "firstName": "Tom",
+                "lastName": "Clancy"
+            },
+            {
+                "firstName": "Steve",
+                "lastName": "Pieczenik"
+            }
+        ],
+        "title": "Mission of Honor",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=126cJrX3QRPPcnq0w-JcKNXcTIrNNd0sb",
+        "genre": "fiction"
+    },
+    "1": {
+        "id": "1",
+        "authorList": [
+            {
+                "firstName": "Tom",
+                "lastName": "Clancy"
+            },
+            {
+                "firstName": "Mark",
+                "lastName": "Greaney"
+            }
+        ],
+        "title": "Threat Vector",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=12ZxF3oKfME9PKBN1H8ZsxCg05KUNhdcF",
+        "genre": "fiction"
+    },
+    "28": {
+        "id": "28",
+        "authorList": [
+            {
+                "firstName": "Breena",
+                "lastName": "Clarke"
+            }
+        ],
+        "title": "River, Cross My Heart",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1uTnRKc4PmM_COEzl0AYMhbzeunYsBJxD",
+        "genre": "fiction"
+    },
+    "9": {
+        "id": "9",
+        "authorList": [
+            {
+                "firstName": "James",
+                "lastName": "Clavell"
+            }
+        ],
+        "title": "Gai-Jin",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1Y41007MmWVL5OvXxyx-_5hY9sE83HE6x",
+        "genre": "fiction"
+    },
+    "13": {
+        "id": "13",
+        "authorList": [
+            {
+                "firstName": "James",
+                "lastName": "Clavell"
+            }
+        ],
+        "title": "Shogun",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1UrSAE85idmyVQRGtX000ULenb3f_e3Ev",
+        "genre": "fiction"
+    },
+    "19": {
+        "id": "19",
+        "authorList": [
+            {
+                "firstName": "Harlan",
+                "lastName": "Coben"
+            }
+        ],
+        "title": "Promise Me",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1zeX54-HhF0ygIoL7NyG_yfcIodV6hMfR",
+        "genre": "fiction"
+    },
+    "32": {
+        "id": "32",
+        "authorList": [
+            {
+                "firstName": "Pat",
+                "lastName": "Conroy"
+            }
+        ],
+        "title": "Beach Music",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1LZZNyxVvxkiS7lmtHAjbErsd-pGLCk66",
+        "genre": "fiction"
+    },
+    "7": {
+        "id": "7",
+        "authorList": [
+            {
+                "firstName": "Pat",
+                "lastName": "Conroy"
+            }
+        ],
+        "title": "The Great Santini",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1dPMectbiRWIkH7iKvgJiDUzRQIj4XMek",
+        "genre": "fiction"
+    },
+    "23": {
+        "id": "23",
+        "authorList": [
+            {
+                "firstName": "Robin",
+                "lastName": "Cook"
+            }
+        ],
+        "title": "Harmful Intent",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1tdZsHck88fAxpputh9d_Y_dGrNd8M2pz",
+        "genre": "fiction"
+    },
+    "20": {
+        "id": "20",
+        "authorList": [
+            {
+                "firstName": "Patricia",
+                "lastName": "Cornwell"
+            }
+        ],
+        "title": "Predator",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1VLLx7KlZnIo1_U6hSQKiguSut3RQoFeE",
+        "genre": "fiction"
+    },
+    "26": {
+        "id": "26",
+        "authorList": [
+            {
+                "firstName": "Bryce",
+                "lastName": "Courtenay"
+            }
+        ],
+        "title": "Matthew Flinder's Cat",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1GfSUTrwJ60FgigQXBpeWreSIbA-gn9Nv",
+        "genre": "fiction"
+    },
+    "31": {
+        "id": "31",
+        "authorList": [
+            {
+                "firstName": "Bryce",
+                "lastName": "Courtenay"
+            }
+        ],
+        "title": "The Persimmon Tree",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=17LYb4hnTnSJxrzA4NQ70MLDgyZ4LaejO",
+        "genre": "fiction"
+    },
+    "21": {
+        "id": "21",
+        "authorList": [
+            {
+                "firstName": "Josephine",
+                "lastName": "Cox"
+            }
+        ],
+        "title": "Midnight",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=15igx-ryfSAOOMpzYmr6aCgc1UV2zB-3P",
+        "genre": "fiction"
+    },
+    "38": {
+        "id": "38",
+        "authorList": [
+            {
+                "firstName": "Michael",
+                "lastName": "Cox"
+            }
+        ],
+        "title": "The Meaning of Night",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1J1jy6WEWCFjBkg1YgrI3yzR3au-ybxpN",
+        "genre": "fiction"
+    },
+    "36": {
+        "id": "36",
+        "authorList": [
+            {
+                "firstName": "Christina",
+                "lastName": "Crawford"
+            }
+        ],
+        "title": "Black Widow",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1VlSOgMitniE_oQhqqQo0sPfm5uzJ4na5",
+        "genre": "fiction"
+    },
+    "27": {
+        "id": "27",
+        "authorList": [
+            {
+                "firstName": "Michael",
+                "lastName": "Crichton"
+            }
+        ],
+        "title": "Eaters of the Dead",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1Ka6Wnbx_o4eOZFLrWzHkztoj1yj-miea",
+        "genre": "fiction"
+    },
+    "15": {
+        "id": "15",
+        "authorList": [
+            {
+                "firstName": "Michael",
+                "lastName": "Crichton"
+            }
+        ],
+        "title": "The Great Train Robbery",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=14uY2-EXOjn2i0y_-w3hlpxRKaagAdPA8",
+        "genre": "fiction"
+    },
+    "14": {
+        "id": "14",
+        "authorList": [
+            {
+                "firstName": "Clive",
+                "lastName": "Cussler"
+            }
+        ],
+        "title": "Inca Gold",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1p4iHgo9sJDaKzbDGqB8vN3ladUUELJwu",
+        "genre": "fiction"
+    },
+    "35": {
+        "id": "35",
+        "authorList": [
+            {
+                "firstName": "John",
+                "lastName": "Le Carre"
+            }
+        ],
+        "title": "The Constant Gardener",
+        "coverUrl": "https://drive.google.com/uc?export=view&id=1A4wQ1b0aTtby064W2-0f5su5GejX7gFB",
+        "genre": "fiction"
+    }
+}
