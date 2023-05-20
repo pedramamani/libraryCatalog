@@ -12,19 +12,30 @@ def main():
             continue
 
         original = cv2.imread(str(scansPath / fileName), cv2.IMREAD_COLOR)
-        temp = cv2.resize(original, (0, 0), fx=0.5, fy=0.5)
-        background = np.average(temp[-10:, :], axis=(0, 1))
-        temp = np.abs(temp - background).clip(0, 255).astype(np.uint8)
+        img = original.copy()
 
-        for right in range(temp.shape[1] - 1, 0, -1):
-            if np.std(temp[:, right]) > 50 or np.mean(temp[:, right]) > 30:
+        for right in range(img.shape[1] - 1, 0, -1):
+            if np.mean(img[:, right]) < 252:
                 break
-        for bottom in range(temp.shape[0] - 1, 0, -1):
-            if np.std(temp[bottom, :]) > 50 or np.mean(temp[bottom, :]) > 30:
+        for bottom in range(img.shape[0] - 1, 0, -1):
+            if np.mean(img[bottom, :]) < 252:
                 break
         
-        temp = original[0: int(bottom * 2), 0: int(right * 2)]
-        cv2.imwrite(str(croppedPath / fileName), temp)
+        # draw the bottom and right lines
+        cv2.line(img, (0, bottom), (img.shape[1], bottom), (0, 0, 255), 1)
+        cv2.line(img, (right, 0), (right, img.shape[0]), (0, 0, 255), 1)
+        cv2.imshow('Image', img)
+
+        key = cv2.waitKey()
+        if key == ord('q'):
+            cv2.destroyAllWindows()
+            return
+        elif key == ord('y'):
+            original = original[0: bottom, 0: right]
+            cv2.imwrite(str(croppedPath / fileName), original)
+        elif key == ord('n'):
+            print(fileName)
+            continue
 
 
 if __name__ == '__main__':
