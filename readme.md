@@ -1,5 +1,5 @@
 # Library Catalog
-A set of tools for cataloging books with minimal effort, originally used to catalog the Hollyburn library
+A set of tools for cataloging books with minimal effort, originally used to catalog the [Hollyburn library](https://www.vr256.com/library)
 
 ## Steps
 ### Scan and crop book covers
@@ -19,8 +19,8 @@ A set of tools for cataloging books with minimal effort, originally used to cata
 10. run `assembleQuery.py` to filter out text fragments that are too small, build queries with the rest, and save to `asset/db/query.json` 
 11. Obtain a Google Books API key and place it in `.env` under `booksApiKey`
 12. run `searchTitle.py` to seach for books using the queries and save title and author information to `asset/db/title.json`
-13. You may manually change these information in `asset/db/title.json`
+13. You may manually change these information
 
 ### Generate HTMLs
 14. run `finalizeBook.py` to combine title, author, genre, and cover information for each book and save to `asset/db/book.json`
-15. run `generateHtml.py` to generate an HTML for each genre using provided template `asset/html/template.html`
+15. run `generateHtml.py` to generate an HTML for each genre using the template `asset/html/template.html`
