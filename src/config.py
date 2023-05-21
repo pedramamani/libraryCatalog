@@ -1,9 +1,12 @@
 import pathlib
+import dotenv 
 
-basePath = pathlib.Path(__file__).parent.parent.absolute()
-assetsPath = basePath / 'assets'
-imagesPath = assetsPath / 'images'
-htmlPath = assetsPath / 'html'
-scansPath = assetsPath / 'scans'
-croppedPath = assetsPath / 'cropped'
-booksFile = assetsPath / 'books.json'
+rootPath = pathlib.Path(__file__).parent.parent.absolute()
+env = dotenv.dotenv_values(rootPath / '.env')
+scopes = ['https://www.googleapis.com/auth/cloud-vision']
+
+coverPath = rootPath / 'asset/image/cover'
+scanPath = rootPath / 'asset/image/scan'
+secretPath = rootPath / 'secret'
+dbPath = rootPath / 'asset/db'
+htmlPath = rootPath / 'asset/html'
