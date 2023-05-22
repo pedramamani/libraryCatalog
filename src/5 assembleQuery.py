@@ -10,7 +10,7 @@ def buildQuery(text):
     words = [w for w in words if w.get('height') > thresholdHeight]
 
     query = ' '.join([w.get('word') for w in words])
-    query = re.sub(r'[^a-zA-Z ]', ' ', query)
+    # query = re.sub(r'[^a-zA-Z ]', ' ', query)
     query = re.sub(r'\s+', ' ', query).strip()
     return query
 
@@ -25,11 +25,17 @@ def main():
     for id, text in textById.items():
         if id in supplementById:
             queryById[id] = supplementById[id]
+        elif not text.get('words'):
+            description = input(f'Enter description for {id}: ')
+            supplementById[id] = description
+            queryById[id] = description
         else:
             queryById[id] = buildQuery(text)
     
     with open(dbPath / 'query.json', 'w+') as file:
         json.dump(queryById, file, indent=4)
+    with open(dbPath / 'supplement.json', 'w+') as file:
+        json.dump(supplementById, file, indent=4)
 
 
 if __name__ == '__main__':

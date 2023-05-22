@@ -3028,5 +3028,1709 @@
         "author": "Bill Bryson",
         "genre": "fiction",
         "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/zzhfdLlH.jpg"
+    },
+    "0AsJ6Uv9": {
+        "title": "Pleading Guilty",
+        "author": "Scott Turow",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/0AsJ6Uv9.jpg"
+    },
+    "1nyHHeeh": {
+        "title": "Trouble is My Business",
+        "author": "Raymond Chandler",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/1nyHHeeh.jpg"
+    },
+    "2sLp1AdY": {
+        "title": "Fear the Worst",
+        "author": "Linwood Barclay",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/2sLp1AdY.jpg"
+    },
+    "341M8CGL": {
+        "title": "The Mephisto Club",
+        "author": "Tess Gerritsen",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/341M8CGL.jpg"
+    },
+    "3c8rY2wi": {
+        "title": "The Miracle at Speedy Motors",
+        "author": "Alexander M. Smith",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/3c8rY2wi.jpg"
+    },
+    "3JM5CfGs": {
+        "title": "The Hotel South Dakota",
+        "author": "Kathleen Taylor",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/3JM5CfGs.jpg"
+    },
+    "3qBujyQA": {
+        "title": "\"C\" Is for Corpse",
+        "author": "Sue Grafton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/3qBujyQA.jpg"
+    },
+    "45vxuLBq": {
+        "title": "The Feast of Stephen",
+        "author": "Rosemary Aubert",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/45vxuLBq.jpg"
+    },
+    "67k6a1Mo": {
+        "title": "L Is for Lawless",
+        "author": "Sue Grafton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/67k6a1Mo.jpg"
+    },
+    "6OcsySUy": {
+        "title": "Cause of Death",
+        "author": "Patricia Cornwell",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/6OcsySUy.jpg"
+    },
+    "6t9q3ZiB": {
+        "title": "On, Off",
+        "author": "Colleen McCullough",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/6t9q3ZiB.jpg"
+    },
+    "7fWAXTs7": {
+        "title": "A Darker Justice",
+        "author": "Sallie Bissell",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/7fWAXTs7.jpg"
+    },
+    "8WP8my3Z": {
+        "title": "The Moonstone",
+        "author": "Wilkie Collins",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/8WP8my3Z.jpg"
+    },
+    "aYTL9F32": {
+        "title": "Death Comes as the End",
+        "author": "Agatha Christie",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/aYTL9F32.jpg"
+    },
+    "BA04l2Aj": {
+        "title": "Stone Cold",
+        "author": "Robert B. Parker",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/BA04l2Aj.jpg"
+    },
+    "bfCjCdbX": {
+        "title": "Into the Water",
+        "author": "Paula Hawkins",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/bfCjCdbX.jpg"
+    },
+    "BoaxFk4C": {
+        "title": "The Alibi Man",
+        "author": "Tami Hoag",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/BoaxFk4C.jpg"
+    },
+    "c5IVJCZh": {
+        "title": "Pickup on Noon Street",
+        "author": "Raymond Chandler",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/c5IVJCZh.jpg"
+    },
+    "c9y8t1Cs": {
+        "title": "The Body in the Moonlight",
+        "author": "Katherine H. Page",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/c9y8t1Cs.jpg"
+    },
+    "cQRdl7ei": {
+        "title": "The Case of the Constant Suicides",
+        "author": "John D. Carr",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/cQRdl7ei.jpg"
+    },
+    "CTdVWHYY": {
+        "title": "Rumpole's Return",
+        "author": "John Mortimer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/CTdVWHYY.jpg"
+    },
+    "CZhsHKVH": {
+        "title": "The Body on the Beach",
+        "author": "Simon Brett",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/CZhsHKVH.jpg"
+    },
+    "cZM3KmY4": {
+        "title": "Perry Mason",
+        "author": "Erle S. Gardner",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/cZM3KmY4.jpg"
+    },
+    "dAEOAw2q": {
+        "title": "The Big Sleep",
+        "author": "Raymond Chandler",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dAEOAw2q.jpg"
+    },
+    "DHnOyNIp": {
+        "title": "The Saints of God Murders",
+        "author": "Charles Meyer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/DHnOyNIp.jpg"
+    },
+    "DjSrE4j9": {
+        "title": "Cry Wolf",
+        "author": "Tami Hoag",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/DjSrE4j9.jpg"
+    },
+    "DlSx7jZN": {
+        "title": "Farewell, My Lovely",
+        "author": "Raymond Chandler",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/DlSx7jZN.jpg"
+    },
+    "dsEqrDV4": {
+        "title": "A Wild Justice",
+        "author": "Craig Thomas",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dsEqrDV4.jpg"
+    },
+    "E2tT6ybR": {
+        "title": "Rumpole of the Bailey",
+        "author": "John Mortimer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/E2tT6ybR.jpg"
+    },
+    "EdkBJr8C": {
+        "title": "Peril at End House",
+        "author": "Agatha Christie",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EdkBJr8C.jpg"
+    },
+    "f610rUaf": {
+        "title": "Needful Things",
+        "author": "Stephen King",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/f610rUaf.jpg"
+    },
+    "fe9eRPlh": {
+        "title": "A Death for a Dreamer",
+        "author": "Doris Shannon",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/fe9eRPlh.jpg"
+    },
+    "gbmw2lnA": {
+        "title": "Fellowship of Fear",
+        "author": "Aaron Elkins",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gbmw2lnA.jpg"
+    },
+    "ghw20MMA": {
+        "title": "Naked in Death",
+        "author": "Nora Roberts",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ghw20MMA.jpg"
+    },
+    "GKihB9Om": {
+        "title": "The Secret History of the World",
+        "author": "Mark Booth",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/GKihB9Om.jpg"
+    },
+    "GkoQV7E0": {
+        "title": "The Lincoln Lawyer",
+        "author": "Michael Connelly",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/GkoQV7E0.jpg"
+    },
+    "gPBIbT32": {
+        "title": "\"H\" is for Homicide",
+        "author": "Sue Grafton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gPBIbT32.jpg"
+    },
+    "GyWZ5HTz": {
+        "title": "One Good Turn",
+        "author": "Kate Atkinson",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/GyWZ5HTz.jpg"
+    },
+    "HgKECg48": {
+        "title": "Make No Bones",
+        "author": "Aaron Elkins",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/HgKECg48.jpg"
+    },
+    "hiP19mha": {
+        "title": "Middle of Nowhere",
+        "author": "Ridley Pearson",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/hiP19mha.jpg"
+    },
+    "HWrCo7zi": {
+        "title": "Murder Ol\u00e9!",
+        "author": "Corinne H. Sawyer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/HWrCo7zi.jpg"
+    },
+    "i9nwG3p9": {
+        "title": "Heartbreaker",
+        "author": "Laurence Gough",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/i9nwG3p9.jpg"
+    },
+    "iJGejJYU": {
+        "title": "The Final Silence",
+        "author": "Stuart Neville",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/iJGejJYU.jpg"
+    },
+    "ijyc4MA9": {
+        "title": "Southern Cross",
+        "author": "Patricia Cornwell",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ijyc4MA9.jpg"
+    },
+    "ITSPadpZ": {
+        "title": "Murder on Washington Square",
+        "author": "Victoria Thompson",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ITSPadpZ.jpg"
+    },
+    "iVfjnisy": {
+        "title": "One Shot",
+        "author": "Lee Child",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/iVfjnisy.jpg"
+    },
+    "j5pAFdtH": {
+        "title": "A Time to Kill",
+        "author": "John Grisham",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/j5pAFdtH.jpg"
+    },
+    "JRbYgEbI": {
+        "title": "As Dead As It Gets",
+        "author": "Cady Kalian",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/JRbYgEbI.jpg"
+    },
+    "K0j8Ism1": {
+        "title": "Strangers Among Us",
+        "author": "Laurali R. Wright",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/K0j8Ism1.jpg"
+    },
+    "KiursVBK": {
+        "title": "Trial by Fire",
+        "author": "Frances Fyfield",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/KiursVBK.jpg"
+    },
+    "kMYLhR9l": {
+        "title": "An Expensive Place to Die",
+        "author": "Len Deighton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/kMYLhR9l.jpg"
+    },
+    "kzbGmzLB": {
+        "title": "With No One As Witness",
+        "author": "Elizabeth George",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/kzbGmzLB.jpg"
+    },
+    "L27A6xfM": {
+        "title": "Airframe",
+        "author": "Michael Crichton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/L27A6xfM.jpg"
+    },
+    "LBYTOv1c": {
+        "title": "Snuffed Out",
+        "author": "Tim Myers",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LBYTOv1c.jpg"
+    },
+    "lCnBjI5p": {
+        "title": "Deadly Decisions",
+        "author": "Kathy Reichs",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lCnBjI5p.jpg"
+    },
+    "lCxftvDU": {
+        "title": "Arms of Nemesis",
+        "author": "Steven Saylor",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lCxftvDU.jpg"
+    },
+    "LDRd4RXd": {
+        "title": "Rumpole of the Bailey",
+        "author": "John Mortimer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LDRd4RXd.jpg"
+    },
+    "LFLcTiDn": {
+        "title": "The Overseer",
+        "author": "Jonathan Rabb",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LFLcTiDn.jpg"
+    },
+    "lJPQsmqi": {
+        "title": "The Lamorna Wink",
+        "author": "Martha Grimes",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lJPQsmqi.jpg"
+    },
+    "lKsu1qm8": {
+        "title": "At Risk",
+        "author": "Patricia D. Cornwell",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lKsu1qm8.jpg"
+    },
+    "lRHYdLL6": {
+        "title": "Indemnity Only",
+        "author": "Sara Paretsky",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lRHYdLL6.jpg"
+    },
+    "LTLDT7g6": {
+        "title": "The Woman in the Window",
+        "author": "Daniel Mallory",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LTLDT7g6.jpg"
+    },
+    "m8dHz0cB": {
+        "title": "The Judgment",
+        "author": "William J. Coughlin",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/m8dHz0cB.jpg"
+    },
+    "Mewa2TJf": {
+        "title": "Trial by Fire",
+        "author": "Nancy T. Rosenberg",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Mewa2TJf.jpg"
+    },
+    "mxA0Xpbi": {
+        "title": "Monday Mourning",
+        "author": "Kathy Reichs",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/mxA0Xpbi.jpg"
+    },
+    "ndFgZXOc": {
+        "title": "A Small Town in Germany",
+        "author": "John le Carr\u00e9",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ndFgZXOc.jpg"
+    },
+    "nfxfXSKQ": {
+        "title": "The Riddle of the Third Mile",
+        "author": "Colin Dexter",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/nfxfXSKQ.jpg"
+    },
+    "nnsBZ5Wo": {
+        "title": "Strangers on a Train",
+        "author": "Patricia Highsmith",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/nnsBZ5Wo.jpg"
+    },
+    "o2QCTc1r": {
+        "title": "The Brethren",
+        "author": "John Grisham",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/o2QCTc1r.jpg"
+    },
+    "o6ZTHCnr": {
+        "title": "Murder at the Portland Variety",
+        "author": "Miriam Zellnik",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/o6ZTHCnr.jpg"
+    },
+    "OeGL0Unx": {
+        "title": "Hand for a Hand",
+        "author": "Frank Muir",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/OeGL0Unx.jpg"
+    },
+    "P9ndqMq5": {
+        "title": "The No. 1 Ladies' Detective Agency",
+        "author": "Alexander M. Smith",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/P9ndqMq5.jpg"
+    },
+    "pDJEQKRr": {
+        "title": "Night and Day",
+        "author": "Iris Johansen",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/pDJEQKRr.jpg"
+    },
+    "pJwemaea": {
+        "title": "Sizzling",
+        "author": "Susan Mallery",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/pJwemaea.jpg"
+    },
+    "qg0BqvmE": {
+        "title": "Daddy's Little Girl",
+        "author": "Mary H. Clark",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/qg0BqvmE.jpg"
+    },
+    "qM8JAnzO": {
+        "title": "Four Complete Dr. Fell Mysteries",
+        "author": "John D. Carr",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/qM8JAnzO.jpg"
+    },
+    "qQm8O2eJ": {
+        "title": "The Shifting Tide",
+        "author": "Anne Perry",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/qQm8O2eJ.jpg"
+    },
+    "QW7hyI8N": {
+        "title": "\"B\" is for Burglar",
+        "author": "Sue Grafton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/QW7hyI8N.jpg"
+    },
+    "QYY6Ywhl": {
+        "title": "Suite 606",
+        "author": "Nora Roberts",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/QYY6Ywhl.jpg"
+    },
+    "RcGkPvas": {
+        "title": "Four to Score",
+        "author": "Janet Evanovich",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/RcGkPvas.jpg"
+    },
+    "RchmW87Z": {
+        "title": "Working Murder",
+        "author": "Eleanor Boylan",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/RchmW87Z.jpg"
+    },
+    "rGWTymJQ": {
+        "title": "The Girl in the Spider's Web",
+        "author": "David Lagercrantz",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/rGWTymJQ.jpg"
+    },
+    "rJzHlmp6": {
+        "title": "The Devil's Code",
+        "author": "John Sandford",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/rJzHlmp6.jpg"
+    },
+    "rowuDX4W": {
+        "title": "Death of a Bride and Groom",
+        "author": "Allan J. Emerson",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/rowuDX4W.jpg"
+    },
+    "rvBfF1ia": {
+        "title": "\"E\" is for Evidence",
+        "author": "Sue Grafton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/rvBfF1ia.jpg"
+    },
+    "SbFGimUi": {
+        "title": "Visions in Death",
+        "author": "Nora Roberts",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/SbFGimUi.jpg"
+    },
+    "suzNpYg2": {
+        "title": "Deception on His Mind",
+        "author": "Elizabeth George",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/suzNpYg2.jpg"
+    },
+    "sWIb7xBG": {
+        "title": "The Face on the Cutting-Room Floor",
+        "author": "Cameron McCabe",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/sWIb7xBG.jpg"
+    },
+    "T39wc0wT": {
+        "title": "Vane Pursuit",
+        "author": "Charlotte MacLeod",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/T39wc0wT.jpg"
+    },
+    "tboR3U9W": {
+        "title": "Finger Lickin' Fifteen",
+        "author": "Janet Evanovich",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/tboR3U9W.jpg"
+    },
+    "TWqJMryr": {
+        "title": "Fugitive",
+        "author": "Phillip Margolin",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/TWqJMryr.jpg"
+    },
+    "u262InIk": {
+        "title": "Break No Bones",
+        "author": "Kathy Reichs",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/u262InIk.jpg"
+    },
+    "Uj6HRSuo": {
+        "title": "The Black Tower",
+        "author": "Phyllis D. James",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Uj6HRSuo.jpg"
+    },
+    "UOrZVQ6z": {
+        "title": "StoneDust",
+        "author": "Justin Scott",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/UOrZVQ6z.jpg"
+    },
+    "uq1CWm5l": {
+        "title": "The Calling",
+        "author": "Inger A. Wolfe",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/uq1CWm5l.jpg"
+    },
+    "URmcu2tC": {
+        "title": "The Twisted Root",
+        "author": "Anne Perry",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/URmcu2tC.jpg"
+    },
+    "vA0nl8YD": {
+        "title": "Belle Ruin",
+        "author": "Martha Grimes",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/vA0nl8YD.jpg"
+    },
+    "vuCiF0OP": {
+        "title": "Body of Opinion",
+        "author": "Jill Staynes",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/vuCiF0OP.jpg"
+    },
+    "W3f7NXfG": {
+        "title": "The Remorseful Day",
+        "author": "Colin Dexter",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/W3f7NXfG.jpg"
+    },
+    "w6vRNRo5": {
+        "title": "The No. 1 Ladies' Detective Agency",
+        "author": "Alexander M. Smith",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/w6vRNRo5.jpg"
+    },
+    "W7hPP4O1": {
+        "title": "Halfhead",
+        "author": "Stuart B. MacBride",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/W7hPP4O1.jpg"
+    },
+    "WDyGR9jn": {
+        "title": "Grievous Sin",
+        "author": "Faye Kellerman",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/WDyGR9jn.jpg"
+    },
+    "WI5o2YKR": {
+        "title": "Presumed Innocent",
+        "author": "Scott Turow",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/WI5o2YKR.jpg"
+    },
+    "x7eSU4Ry": {
+        "title": "True Evil",
+        "author": "Greg Iles",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/x7eSU4Ry.jpg"
+    },
+    "XfjqgUOe": {
+        "title": "Pagan Babies",
+        "author": "Elmore Leonard",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/XfjqgUOe.jpg"
+    },
+    "XHgNk80T": {
+        "title": "The Lake House",
+        "author": "Kate Morton",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/XHgNk80T.jpg"
+    },
+    "y5maOoo4": {
+        "title": "The Hidden Child",
+        "author": "Camilla Lackberg",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/y5maOoo4.jpg"
+    },
+    "YJ4RggJI": {
+        "title": "Our Game",
+        "author": "John le Carr\u00e9",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YJ4RggJI.jpg"
+    },
+    "yLNIOmwu": {
+        "title": "The Missing Chapter",
+        "author": "Robert Goldsborough",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/yLNIOmwu.jpg"
+    },
+    "YQ8qk2Xz": {
+        "title": "The Girl Who Takes an Eye for an Eye",
+        "author": "David Lagercrantz",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YQ8qk2Xz.jpg"
+    },
+    "yUunYSGM": {
+        "title": "The Opening Night Murder",
+        "author": "Anne Rutherford",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/yUunYSGM.jpg"
+    },
+    "YwjG0tXA": {
+        "title": "Asking for the Moon",
+        "author": "Reginald Hill",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YwjG0tXA.jpg"
+    },
+    "yYyf6gEi": {
+        "title": "The Girl who Played with Fire",
+        "author": "Stieg Larsson",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/yYyf6gEi.jpg"
+    },
+    "ZE7qHkZp": {
+        "title": "Dark Forest",
+        "author": "Frank Palmer",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZE7qHkZp.jpg"
+    },
+    "zkrgfoMX": {
+        "title": "Play With Fire",
+        "author": "Dana Stabenow",
+        "genre": "mystery",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/zkrgfoMX.jpg"
+    },
+    "0yZxR9oi": {
+        "title": "Friend of My Youth",
+        "author": "Alice Munro",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/0yZxR9oi.jpg"
+    },
+    "156V3Sti": {
+        "title": "Grab Bag",
+        "author": "Charlotte MacLeod",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/156V3Sti.jpg"
+    },
+    "3dw9Upsx": {
+        "title": "Under Milk Wood",
+        "author": "Dylan Thomas",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/3dw9Upsx.jpg"
+    },
+    "8hdck51S": {
+        "title": "Four Screenplays",
+        "author": "Syd Field",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/8hdck51S.jpg"
+    },
+    "BFmvvkfG": {
+        "title": "Faust, Part One",
+        "author": "Johann W. von Goethe",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/BFmvvkfG.jpg"
+    },
+    "bpRfDPqc": {
+        "title": "Mnemonic",
+        "author": "Complicit\u00c3\u00a9",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/bpRfDPqc.jpg"
+    },
+    "c1UAHcFv": {
+        "title": "October, No. 127",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/c1UAHcFv.jpg"
+    },
+    "Dctb5EAq": {
+        "title": "Bald Soprano and Other Plays",
+        "author": "Eug\u00e8ne Ionesco",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Dctb5EAq.jpg"
+    },
+    "DQW77RQL": {
+        "title": "Cthulhu 2000",
+        "author": "Jim Turner",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/DQW77RQL.jpg"
+    },
+    "dsKDQYk6": {
+        "title": "Fiction 100",
+        "author": "James H. Pickering",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dsKDQYk6.jpg"
+    },
+    "dvT6T3hR": {
+        "title": "The New Nature Writing",
+        "author": "Jason Cowley",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dvT6T3hR.jpg"
+    },
+    "dy7vO2Zk": {
+        "title": "Whites",
+        "author": "Norman Rush",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dy7vO2Zk.jpg"
+    },
+    "EAnuXvnr": {
+        "title": "Collected Works of Oscar Wilde",
+        "author": "Oscar Wilde",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EAnuXvnr.jpg"
+    },
+    "EJ2g9aD3": {
+        "title": "Complete Shorter Fiction",
+        "author": "Oscar Wilde",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EJ2g9aD3.jpg"
+    },
+    "EwIe1SBf": {
+        "title": "Hooking Up",
+        "author": "Tom Wolfe",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EwIe1SBf.jpg"
+    },
+    "Fka9GNgF": {
+        "title": "Stories from Hakluyt",
+        "author": "Richard Wilson",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Fka9GNgF.jpg"
+    },
+    "fSCLldu9": {
+        "title": "The Norton Anthology of Short Fiction",
+        "author": "Richard Bausch",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/fSCLldu9.jpg"
+    },
+    "FUITIY6W": {
+        "title": "Granta 104: Fathers",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/FUITIY6W.jpg"
+    },
+    "gCtwB7dK": {
+        "title": "Open Secrets",
+        "author": "Alice Munro",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gCtwB7dK.jpg"
+    },
+    "gGvXfbfi": {
+        "title": "Legends of the Fall",
+        "author": "Jim Harrison",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gGvXfbfi.jpg"
+    },
+    "GwW52R9b": {
+        "title": "Granta 81: Best of Young British Novelists 2003",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/GwW52R9b.jpg"
+    },
+    "h3Gv3kls": {
+        "title": "Pulp Fiction",
+        "author": "Quentin Tarantino",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/h3Gv3kls.jpg"
+    },
+    "hb58mHdE": {
+        "title": "Othello",
+        "author": "William Shakespeare",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/hb58mHdE.jpg"
+    },
+    "hgAGLrpZ": {
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/hgAGLrpZ.jpg"
+    },
+    "HWRmDvc0": {
+        "title": "October, No. 128",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/HWRmDvc0.jpg"
+    },
+    "I6KLedlY": {
+        "title": "John Betjeman's Collected Poems",
+        "author": "John Betjeman",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/I6KLedlY.jpg"
+    },
+    "iI9kxphq": {
+        "title": "Science Against Man",
+        "author": "Anthony Cheetham",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/iI9kxphq.jpg"
+    },
+    "IRk9Nupz": {
+        "title": "Robert Burns",
+        "author": "Robert Burns",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/IRk9Nupz.jpg"
+    },
+    "iZ4jlX6I": {
+        "title": "Like Birds, Like Fishes and Other Stories",
+        "author": "Ruth P. Jhabvala",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/iZ4jlX6I.jpg"
+    },
+    "IzycGE56": {
+        "title": "The Tragedies of Shakespeare",
+        "author": "William Shakespeare",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/IzycGE56.jpg"
+    },
+    "JcOevCMG": {
+        "title": "Ethan Frome",
+        "author": "Edith Wharton",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/JcOevCMG.jpg"
+    },
+    "jWOdyu7W": {
+        "title": "The Comedies of Shakespeare",
+        "author": "William Shakespeare",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/jWOdyu7W.jpg"
+    },
+    "L6dc0WfP": {
+        "title": "Selected Stories",
+        "author": "Alice Munro",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/L6dc0WfP.jpg"
+    },
+    "LABcxZj2": {
+        "title": "The Crucible",
+        "author": "Arthur Miller",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LABcxZj2.jpg"
+    },
+    "lrUd73Q9": {
+        "title": "Heart Songs and Other Stories",
+        "author": "Annie Proulx",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lrUd73Q9.jpg"
+    },
+    "NgSIfUe8": {
+        "title": "Kafka Americana",
+        "author": "Jonathan Lethem",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/NgSIfUe8.jpg"
+    },
+    "NnAi3cMP": {
+        "title": "Lives of Girls and Women",
+        "author": "Alice Munro",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/NnAi3cMP.jpg"
+    },
+    "PNVgRaGm": {
+        "title": "Greasy Lake and Other Stories",
+        "author": "Thomas C. Boyle",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/PNVgRaGm.jpg"
+    },
+    "q2hlBI5D": {
+        "title": "Modern Stories in English",
+        "author": "William H. New",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/q2hlBI5D.jpg"
+    },
+    "QimACMbx": {
+        "title": "Little Novels of Sicily",
+        "author": "Giovanni Verga",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/QimACMbx.jpg"
+    },
+    "qON1x6lY": {
+        "title": "October, No. 129",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/qON1x6lY.jpg"
+    },
+    "qT8vZCe4": {
+        "title": "English Romantic Poetry",
+        "author": "Stanley Appelbaum",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/qT8vZCe4.jpg"
+    },
+    "rFTbCagE": {
+        "title": "High Lonesome",
+        "author": "Barry Hannah",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/rFTbCagE.jpg"
+    },
+    "SLh8bYdd": {
+        "title": "Selected Short Stories",
+        "author": "Joseph Conrad",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/SLh8bYdd.jpg"
+    },
+    "sqk8eyly": {
+        "title": "Waiting for Godot",
+        "author": "Samuel Beckett",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/sqk8eyly.jpg"
+    },
+    "Tv9IgPmH": {
+        "title": "Death of a Salesman",
+        "author": "Arthur Miller",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Tv9IgPmH.jpg"
+    },
+    "u8F27PNs": {
+        "title": "Heartstones",
+        "author": "Ruth Rendell",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/u8F27PNs.jpg"
+    },
+    "uiQIzgMx": {
+        "title": "Favorite Poems",
+        "author": "William Wordsworth",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/uiQIzgMx.jpg"
+    },
+    "uNWFIxpA": {
+        "title": "Wind, Sand and Stars",
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/uNWFIxpA.jpg"
+    },
+    "v6tuOurZ": {
+        "title": "Fun and Games at the Whacks Museum and Other Horror Stories",
+        "author": "Cathleen Jordan",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/v6tuOurZ.jpg"
+    },
+    "VgK0b5lX": {
+        "title": "Three Comedies",
+        "author": "Ben Jonson",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/VgK0b5lX.jpg"
+    },
+    "VQatUWfB": {
+        "title": "The Complete Poems",
+        "author": "Ben Jonson",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/VQatUWfB.jpg"
+    },
+    "wnKqi8UR": {
+        "title": "A Good Man is Hard to Find",
+        "author": "Flannery O'Connor",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/wnKqi8UR.jpg"
+    },
+    "WSE1u0GU": {
+        "title": "Who Do You Think You Are?",
+        "author": "Alice Munro",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/WSE1u0GU.jpg"
+    },
+    "WwMTGK7y": {
+        "title": "Bear and His Daughter",
+        "author": "Robert Stone",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/WwMTGK7y.jpg"
+    },
+    "XXEgUJcA": {
+        "title": "Bloodletting & Miraculous Cures",
+        "author": "Vincent Lam",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/XXEgUJcA.jpg"
+    },
+    "YdcI9pNi": {
+        "title": "Exiles",
+        "author": "Philip Caputo",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YdcI9pNi.jpg"
+    },
+    "ynXUgItd": {
+        "title": "The Story and Its Writer",
+        "author": "Ann Charters",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ynXUgItd.jpg"
+    },
+    "ZAaMrJQQ": {
+        "title": "October, No. 126",
+        "author": "",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZAaMrJQQ.jpg"
+    },
+    "ZAGM49Gc": {
+        "title": "Tuktoyaktuk 2-3",
+        "author": "Herbert T. Schwarz",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZAGM49Gc.jpg"
+    },
+    "zBWJ7RjG": {
+        "title": "Poems",
+        "author": "William Blake",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/zBWJ7RjG.jpg"
+    },
+    "ZHDkxB6c": {
+        "title": "The Histories and Poems of Shakespeare",
+        "author": "William Shakespeare",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZHDkxB6c.jpg"
+    },
+    "ZzD1ALOI": {
+        "title": "The World's Great Speeches",
+        "author": "Lewis Copeland",
+        "genre": "poetry",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZzD1ALOI.jpg"
+    },
+    "0LM2taKD": {
+        "title": "Grand Passion",
+        "author": "Jayne A. Krentz",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/0LM2taKD.jpg"
+    },
+    "1MNbgMjt": {
+        "title": "Shades of Grace",
+        "author": "Barbara Delinsky",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/1MNbgMjt.jpg"
+    },
+    "1ov5Siif": {
+        "title": "At First Sight",
+        "author": "Nicholas Sparks",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/1ov5Siif.jpg"
+    },
+    "4bBBsHHH": {
+        "title": "Fifty Shades of Grey",
+        "author": "Erika Mitchell",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/4bBBsHHH.jpg"
+    },
+    "4i33X5nM": {
+        "title": "Loving",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/4i33X5nM.jpg"
+    },
+    "4YB95elR": {
+        "title": "Flirting with Pete",
+        "author": "Barbara Delinsky",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/4YB95elR.jpg"
+    },
+    "5yRw7EIe": {
+        "title": "A Walk to Remember",
+        "author": "Nicholas Sparks",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/5yRw7EIe.jpg"
+    },
+    "7iJDZA2T": {
+        "title": "A Father's Heart",
+        "author": "Karen Young",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/7iJDZA2T.jpg"
+    },
+    "8yKAfqqX": {
+        "title": "No Place to Hide",
+        "author": "Celeste Hamilton",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/8yKAfqqX.jpg"
+    },
+    "9H4jJcJd": {
+        "title": "Cole for Christmas",
+        "author": "Darlene Gardner",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/9H4jJcJd.jpg"
+    },
+    "9qeYBty9": {
+        "title": "Undercover Commitment",
+        "author": "Kathleen Long",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/9qeYBty9.jpg"
+    },
+    "A6uYheHU": {
+        "title": "The Calhouns: Suzanna and Megan",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/A6uYheHU.jpg"
+    },
+    "b9IUtrUy": {
+        "title": "Long Time Coming",
+        "author": "Sandra Brown",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/b9IUtrUy.jpg"
+    },
+    "bQHPUJmj": {
+        "title": "All Through the Night",
+        "author": "Barrington King",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/bQHPUJmj.jpg"
+    },
+    "bSmscoKA": {
+        "title": "The Real Thing",
+        "author": "Kay Hooper",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/bSmscoKA.jpg"
+    },
+    "CDko5PN8": {
+        "title": "Memory and Desire",
+        "author": "Justine Harlowe",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/CDko5PN8.jpg"
+    },
+    "coEyQD84": {
+        "title": "Safe Harbour",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/coEyQD84.jpg"
+    },
+    "cvfyFiNf": {
+        "title": "One Summer",
+        "author": "David Baldacci",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/cvfyFiNf.jpg"
+    },
+    "D42mT8rk": {
+        "title": "Trading Places",
+        "author": "Fern Michaels",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/D42mT8rk.jpg"
+    },
+    "dyUqWKoW": {
+        "title": "Captivated",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/dyUqWKoW.jpg"
+    },
+    "Egs1HVyA": {
+        "title": "Public Smiles, Private Tears",
+        "author": "Helen V. Slyke",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Egs1HVyA.jpg"
+    },
+    "EGVxt1lU": {
+        "title": "Ride a Painted Pony",
+        "author": "Carolyn McSparren",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EGVxt1lU.jpg"
+    },
+    "ETdyEg2A": {
+        "title": "Summer's End",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ETdyEg2A.jpg"
+    },
+    "FIc45AtX": {
+        "title": "Baby, It's Cold Outside",
+        "author": "Cathy Yardley",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/FIc45AtX.jpg"
+    },
+    "FwLvrNXl": {
+        "title": "Lady in Waiting",
+        "author": "Kathryn Caskie",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/FwLvrNXl.jpg"
+    },
+    "G0tessVu": {
+        "title": "Second Chance",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/G0tessVu.jpg"
+    },
+    "gFLRJ2zP": {
+        "title": "Passion's Promise",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gFLRJ2zP.jpg"
+    },
+    "gRidu88T": {
+        "title": "Silent Honor",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gRidu88T.jpg"
+    },
+    "gXmwVIoj": {
+        "title": "The MacGregors: Alan & Grant",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/gXmwVIoj.jpg"
+    },
+    "hA4Ir1AQ": {
+        "title": "The Cynic",
+        "author": "Elizabeth Michaels",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/hA4Ir1AQ.jpg"
+    },
+    "HuUcWOhY": {
+        "title": "Season of Joy",
+        "author": "Virginia Carmichael",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/HuUcWOhY.jpg"
+    },
+    "IOyXgYRc": {
+        "title": "Feathers in the Fire",
+        "author": "Catherine Cookson",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/IOyXgYRc.jpg"
+    },
+    "J5re9i0T": {
+        "title": "Child Of Mine",
+        "author": "Bonnie K. Winn",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/J5re9i0T.jpg"
+    },
+    "kf2FCYE5": {
+        "title": "Follow The Wind",
+        "author": "Janelle Taylor",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/kf2FCYE5.jpg"
+    },
+    "L5FvpPmj": {
+        "title": "Chapatti Or Chips?",
+        "author": "Nisha Minhas",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/L5FvpPmj.jpg"
+    },
+    "lhAWNHUe": {
+        "title": "Palm Beach",
+        "author": "Pat Booth",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/lhAWNHUe.jpg"
+    },
+    "M6XzWN4r": {
+        "title": "Laws of Love",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/M6XzWN4r.jpg"
+    },
+    "M9W02blQ": {
+        "title": "The Night Orchid",
+        "author": "Patricia Simpson",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/M9W02blQ.jpg"
+    },
+    "MOh4OwRC": {
+        "title": "The Ghost",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/MOh4OwRC.jpg"
+    },
+    "mQvUuUhu": {
+        "title": "Birthright",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/mQvUuUhu.jpg"
+    },
+    "mvQs862o": {
+        "title": "Island Enchantment",
+        "author": "Robyn Donald",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/mvQs862o.jpg"
+    },
+    "nJe14MDj": {
+        "title": "The Looking Glass",
+        "author": "Richard P. Evans",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/nJe14MDj.jpg"
+    },
+    "pVttvjhd": {
+        "title": "Changing Grooms",
+        "author": "Sasha Wagstaff",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/pVttvjhd.jpg"
+    },
+    "q6qpXHFJ": {
+        "title": "Stars",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/q6qpXHFJ.jpg"
+    },
+    "QmnalISY": {
+        "title": "Chesapeake Summer",
+        "author": "Jeanette Baker",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/QmnalISY.jpg"
+    },
+    "Rz7vSV5G": {
+        "title": "The Search",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Rz7vSV5G.jpg"
+    },
+    "seuonq2N": {
+        "title": "A Light in the Window",
+        "author": "Jan Karon",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/seuonq2N.jpg"
+    },
+    "SNqf8YfD": {
+        "title": "Temptation",
+        "author": "Cynthia Blair",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/SNqf8YfD.jpg"
+    },
+    "TLaNRKfe": {
+        "title": "Instant Attraction",
+        "author": "Jill Shalvis",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/TLaNRKfe.jpg"
+    },
+    "uRIYj7Qn": {
+        "title": "Fall from Grace",
+        "author": "Danielle Steel",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/uRIYj7Qn.jpg"
+    },
+    "USPNxuz7": {
+        "title": "It Happened at Christmas",
+        "author": "Debbie Mason",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/USPNxuz7.jpg"
+    },
+    "v3obhYLy": {
+        "title": "The Desert Crop",
+        "author": "Catherine Cookson",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/v3obhYLy.jpg"
+    },
+    "vTKergJw": {
+        "title": "The Last Princess",
+        "author": "Cynthia Freeman",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/vTKergJw.jpg"
+    },
+    "x7uCMjk2": {
+        "title": "Best Man To Wed?",
+        "author": "Penny Jordan",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/x7uCMjk2.jpg"
+    },
+    "X7zyF2fd": {
+        "title": "Familiar Obsession",
+        "author": "Caroline Burnes",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/X7zyF2fd.jpg"
+    },
+    "xNtdKESU": {
+        "title": "Sense of Destiny",
+        "author": "Patricia Wilson",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/xNtdKESU.jpg"
+    },
+    "XOIpz09M": {
+        "title": "Claiming His Christmas Bride",
+        "author": "Carole Mortimer",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/XOIpz09M.jpg"
+    },
+    "xSoA5OWo": {
+        "title": "Love by Design",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/xSoA5OWo.jpg"
+    },
+    "YDafEjMe": {
+        "title": "The Millionaire Cowboy's Secret",
+        "author": "Karen Whiddon",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YDafEjMe.jpg"
+    },
+    "yVUZ8hGg": {
+        "title": "Sullivan's Woman",
+        "author": "Nora Roberts",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/yVUZ8hGg.jpg"
+    },
+    "ZfRbg9oz": {
+        "title": "Heart of a Hunter",
+        "author": "Sylvie Kurtz",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZfRbg9oz.jpg"
+    },
+    "zVSiYayH": {
+        "title": "Wild Mountain Thyme",
+        "author": "Rosamunde Pilcher",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/zVSiYayH.jpg"
+    },
+    "ZYMW2eaV": {
+        "title": "Always and Forever",
+        "author": "Cynthia Freeman",
+        "genre": "romance",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ZYMW2eaV.jpg"
+    },
+    "2GkkxJF5": {
+        "title": "The Hobbit",
+        "author": "John R. R. Tolkien",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/2GkkxJF5.jpg"
+    },
+    "2GQ6WNIR": {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/2GQ6WNIR.jpg"
+    },
+    "2kJs0bfx": {
+        "title": "Drums of Autumn",
+        "author": "Diana Gabaldon",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/2kJs0bfx.jpg"
+    },
+    "4asYCJZP": {
+        "title": "The Veil of a Thousand Tears",
+        "author": "Eric V. Lustbader",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/4asYCJZP.jpg"
+    },
+    "6DpG9egM": {
+        "title": "Steel Beach",
+        "author": "John Varley",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/6DpG9egM.jpg"
+    },
+    "88boFxyR": {
+        "title": "The Hobbit",
+        "author": "John R. R. Tolkien",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/88boFxyR.jpg"
+    },
+    "ANefH6xN": {
+        "title": "Thornyhold",
+        "author": "Mary Stewart",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ANefH6xN.jpg"
+    },
+    "anu7M2RR": {
+        "title": "Angelmass",
+        "author": "Timothy Zahn",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/anu7M2RR.jpg"
+    },
+    "BWotFmkv": {
+        "title": "Soarer's Choice",
+        "author": "Leland E. Modesitt",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/BWotFmkv.jpg"
+    },
+    "BZ79EaUu": {
+        "title": "The Fellowship Of The Ring",
+        "author": "John R. R. Tolkien",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/BZ79EaUu.jpg"
+    },
+    "cyfNNVd3": {
+        "title": "Dust of Dreams",
+        "author": "Steven Erikson",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/cyfNNVd3.jpg"
+    },
+    "du5q8X2r": {
+        "title": "The Children of Men",
+        "author": "Phyllis D. James",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/du5q8X2r.jpg"
+    },
+    "egnPNKJ6": {
+        "title": "The X-Files: Ruins",
+        "author": "Kevin J. Anderson",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/egnPNKJ6.jpg"
+    },
+    "EVncR4F5": {
+        "title": "Lost City",
+        "author": "Clive Cussler",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/EVncR4F5.jpg"
+    },
+    "fg6dKgpb": {
+        "title": "Arash-Felloren",
+        "author": "Roger Taylor",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/fg6dKgpb.jpg"
+    },
+    "FZRxgld0": {
+        "title": "The Day After Tomorrow",
+        "author": "Whitley Strieber",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/FZRxgld0.jpg"
+    },
+    "hlQw7qaE": {
+        "title": "Crossroads of Twilight",
+        "author": "Robert Jordan",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/hlQw7qaE.jpg"
+    },
+    "ilrDe9bK": {
+        "title": "The Waterborn",
+        "author": "Greg Keyes",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ilrDe9bK.jpg"
+    },
+    "JoEKM9wW": {
+        "title": "Heaven's Shadow",
+        "author": "David S. Goyer",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/JoEKM9wW.jpg"
+    },
+    "kRL4uSvw": {
+        "title": "White Gold Welder",
+        "author": "Stephen R. Donaldson",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/kRL4uSvw.jpg"
+    },
+    "LUN11k6m": {
+        "title": "Venus",
+        "author": "Ben Bova",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/LUN11k6m.jpg"
+    },
+    "mKkC5Mfq": {
+        "title": "Lightpaths",
+        "author": "Howard V. Hendrix",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/mKkC5Mfq.jpg"
+    },
+    "MoCWhM7W": {
+        "title": "Migration",
+        "author": "Julie E. Czerneda",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/MoCWhM7W.jpg"
+    },
+    "NQwLQtFt": {
+        "title": "Ender's Game",
+        "author": "Orson S. Card",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/NQwLQtFt.jpg"
+    },
+    "OGRHbQDs": {
+        "title": "Finn Mac Cool",
+        "author": "Morgan Llywelyn",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/OGRHbQDs.jpg"
+    },
+    "oWgGccEF": {
+        "title": "The Far Call",
+        "author": "Gordon R. Dickson",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/oWgGccEF.jpg"
+    },
+    "OYn9PkLH": {
+        "title": "Pushing Ice",
+        "author": "Alastair Reynolds",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/OYn9PkLH.jpg"
+    },
+    "p1GaswLJ": {
+        "title": "Revenger",
+        "author": "Alastair Reynolds",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/p1GaswLJ.jpg"
+    },
+    "PnxRok5A": {
+        "title": "The Kings of Eternity",
+        "author": "Eric Brown",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/PnxRok5A.jpg"
+    },
+    "PTCXBro3": {
+        "title": "Elven Star",
+        "author": "Margaret Weis",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/PTCXBro3.jpg"
+    },
+    "Rsw5hUxB": {
+        "title": "Iris",
+        "author": "William Barton",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Rsw5hUxB.jpg"
+    },
+    "RTTPHpGs": {
+        "title": "Knife of Dreams",
+        "author": "Robert Jordan",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/RTTPHpGs.jpg"
+    },
+    "uBTmzUEM": {
+        "title": "Pasquale's Angel",
+        "author": "Paul McAuley",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/uBTmzUEM.jpg"
+    },
+    "vpaYHNzZ": {
+        "title": "Prince of Fire and Ashes",
+        "author": "Katya Reimann",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/vpaYHNzZ.jpg"
+    },
+    "vZ2C9M0D": {
+        "title": "Wicked",
+        "author": "Gregory Maguire",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/vZ2C9M0D.jpg"
+    },
+    "W1eyMRa7": {
+        "title": "Behemoth",
+        "author": "Scott Westerfeld",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/W1eyMRa7.jpg"
+    },
+    "xBYpOn1W": {
+        "title": "The Shadow of What Was Lost",
+        "author": "James Islington",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/xBYpOn1W.jpg"
+    },
+    "xrisIFrr": {
+        "title": "Storeys from the Old Hotel",
+        "author": "Gene Wolfe",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/xrisIFrr.jpg"
+    },
+    "YiRDaQnP": {
+        "title": "Torment",
+        "author": "Lauren Kate",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/YiRDaQnP.jpg"
+    },
+    "yzWbq6hP": {
+        "title": "Boneshaker",
+        "author": "Cherie Priest",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/yzWbq6hP.jpg"
+    },
+    "zld4kGFi": {
+        "title": "The Broken Sword",
+        "author": "Molly Cochran",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/zld4kGFi.jpg"
+    },
+    "Zmb4u3ks": {
+        "title": "A Darker Shade of Magic",
+        "author": "Victoria E. Schwab",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/Zmb4u3ks.jpg"
+    },
+    "ztqK7iJI": {
+        "title": "Burning Chrome",
+        "author": "William Gibson",
+        "genre": "scienceFiction",
+        "cover": "https://raw.githubusercontent.com/pedramamani/libraryCatalog/main/asset/image/cover/ztqK7iJI.jpg"
     }
 }

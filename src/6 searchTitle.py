@@ -12,7 +12,7 @@ def search(query):
         'projection': 'lite',
         'orderBy': 'relevance',
         'startIndex': '0',
-        'maxResults': '12'
+        'maxResults': '10'
     })
     data = response.json()
 
@@ -22,8 +22,7 @@ def search(query):
     for item in data.get('items'):
         info = item.get('volumeInfo')
         title, authors = info.get('title'), info.get('authors')
-        if title and authors:
-            results.append({'title': title, 'author': authors[0]})
+        results.append({'title': title, 'author': authors[0] if authors else ''})
     return results[:10]
 
 
@@ -55,6 +54,9 @@ def main():
             elif key == ord('s'):
                 print()
                 query = input('Enter search query: ')
+                continue
+            elif key == ord('n'):
+                found = True
                 continue
             elif key == ord('q'):
                 return
