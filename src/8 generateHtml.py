@@ -11,7 +11,7 @@ def main():
     env = jinja2.Environment(loader=jinja2.FileSystemLoader(htmlPath))
     template = env.get_template('template.html')
     
-    with open(dbPath / 'book.json', 'r') as file:
+    with open(dbPath / 'book.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
     
     for genre in os.listdir(scanPath):
